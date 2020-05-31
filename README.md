@@ -2,7 +2,7 @@
 
 
 
-![Profile]()
+![Profile](img/profile.jpg)
 
 Alexsander is a Software Developer at @luizalabs.
 
