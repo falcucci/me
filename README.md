@@ -2,7 +2,7 @@
 
 <img src="img/profile.jpg" width="300" height="300">
 
-Alexsander is a Software Developer at @luizalabs.
+Alexsander is a Software Developer at [@luizalabs](https://github.com/luizalabs).
 
 He is available at
 
