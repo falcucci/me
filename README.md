@@ -1,6 +1,6 @@
 # Alexsander Falcucci
 
-<img src="img/profile.jpg" width="300" height="300">
+<img src="img/profile.jpeg" width="300" height="300">
 
 Alexsander is a Software Developer at [@luizalabs](https://github.com/luizalabs).
 
